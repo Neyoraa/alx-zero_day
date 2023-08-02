@@ -1,1 +1,1 @@
-My edited redme copy
+My edited readme copy
